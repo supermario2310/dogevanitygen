@@ -1,3 +1,5 @@
 This a version of vanitygen oriented to Dogecoin. To generate a Dogecoin vanity, just use this:
 
-vanitygen -D Doges
+vanitygen -c Doges
+
+(Just a note: in all my vanitygens, -c equals whatever coin I added to the program.)
