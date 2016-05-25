@@ -1397,6 +1397,10 @@ vg_prefix_context_add_patterns(vg_context_t *vcp,
 			ats = "testnet";
 			bw = "\"m\" or \"n\"";
 			break;
+		case 30:
+			ats = "dogecoin";
+			bw = "\"D\""
+			break;
 		case 52:
 			ats = "namecoin";
 			bw = "\"M\" or \"N\"";
