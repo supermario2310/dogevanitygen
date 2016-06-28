@@ -385,7 +385,7 @@ main(int argc, char **argv)
 		case '1':
 			only_one = 1;
 			break;
-		case 'N':
+		case 'C':
 			addrtype = 30;
 			privtype = 158;
 			scriptaddrtype = -1;
