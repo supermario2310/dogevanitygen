@@ -1399,7 +1399,7 @@ vg_prefix_context_add_patterns(vg_context_t *vcp,
 			break;
 		case 30:
 			ats = "dogecoin";
-			bw = "\"D\""
+			bw = "\"D\"";
 			break;
 		case 52:
 			ats = "namecoin";
